@@ -1,5 +1,5 @@
 
-Hi i'm Ethan, i'm a Computer Science Graduate at Newcastle University.
+Hi i'm Ethan, i'm a Computer Science Graduate an Graduate Developer at Greggs.
 
 This repository serves as a place for both my academic and personal projects.
 
